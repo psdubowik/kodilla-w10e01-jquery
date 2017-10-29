@@ -1,0 +1,22 @@
+{
+    "name": "kodillaFE_week10ex01_js_jquery",
+    "version": "1.0.0",
+    "description": "jQuery basics",
+    "main": "index.js",
+    "scripts": {
+      "test": "test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/psdubowik/kodilla-w10e01-jquery.git"
+    },
+    "keywords": [
+      "jquery"
+    ],
+    "author": "PSD",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/psdubowik/kodilla-w10e01-jquery/issues"
+    },
+    "homepage": "https://github.com/psdubowik/kodilla-w10e01-jquery#readme"
+  }
